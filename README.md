@@ -3,7 +3,7 @@
 # Peso 
 
 Vaso:61g
-Plato ondo:
+Plato ondo:96g
 
 
 # Desayuno 
