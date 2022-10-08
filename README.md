@@ -1,5 +1,11 @@
 8 Oct 22
 
+# Peso 
+
+Vaso:61g
+Plato ondo:
+
+
 # Desayuno 
 - 2 tortillas
 -3 claras de huevo 99 gr  y 60 gr de queso panela
